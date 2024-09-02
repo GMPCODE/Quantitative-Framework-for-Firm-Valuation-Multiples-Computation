@@ -6,7 +6,7 @@ I develop a portfolio optimization model that periodically adjusts the weights o
 
 ## Thesis
 
-[PDF Available]
+[PDF Available](https://github.com/mariodematteis/DRL-PortfolioOptimization/blob/6405cceb0a3430fdf5ea0c471e1b7764541a23eb/Paper.pdf)
 
 ## Development
 
