@@ -6,7 +6,7 @@ This study starts from the traditional process of estimating a company's valuati
 
 ## Thesis
 
-[PDF Available]("/Users/giovanni/Documents/QVF - quantitative framework for valuation multiples computation in mergers and acquisitions/paper.pdf")
+[PDF Available](https://github.com/GMPCODE/Quantitative-Framework-for-Firm-Valuation-Multiples-Computation/blob/main/Paper.pdf)
 
 ## Development
 
@@ -14,8 +14,7 @@ This study starts from the traditional process of estimating a company's valuati
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://icon.icepanel.io/Technology/svg/scikit-learn.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 This __repository__ hosts the code related to my __Bachelor Thesis__, which aims at offers new approaches to __*multiples computation for firm valuation purposes*__.<br>
