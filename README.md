@@ -6,7 +6,7 @@ This study starts from the traditional process of estimating a company's valuati
 
 ## Thesis
 
-[PDF Available]()
+[PDF Available]("/Users/giovanni/Documents/QVF - quantitative framework for valuation multiples computation in mergers and acquisitions/paper.pdf")
 
 ## Development
 
