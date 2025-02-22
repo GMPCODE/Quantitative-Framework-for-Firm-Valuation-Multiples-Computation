@@ -1,4 +1,4 @@
-name: AlgorithmicPortfolioManagement
+name: quantitative framework for valuation multiples computation
 channels:
   - default
   - conda-forge

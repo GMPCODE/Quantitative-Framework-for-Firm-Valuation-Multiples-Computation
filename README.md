@@ -1,12 +1,12 @@
-# Portfolio Optimization Techniques through Deep Reinforcement Learning Models
+# A quantitative framework for valuation multiples computation in mergers and acquisitions: integrating bidirectional encoder representations from transformers, principal component analysis, and predictive modeling
 
 ## Abstract
 
-I develop a portfolio optimization model that periodically adjusts the weights over a period of time. I implement different machine learning techniques to compare the performances over different metrics. The models have been trained over two different edited versions of the 12 industries portfolio dataset of daily returns by Eugene Fama and Kenneth R. French. These two versions of the datasets contain statistical information computed over the original dataset, such as the standard deviation and the momentum. One of these two versions includes information relative to the sentiment analysis performed all over the 12 industries using a large language model. The models are designed in different versions, implementing either convolutional neural networks or recurrent neural networks. The convolutional neural network shows positive results when compared to a portfolio through a mean-variance optimization approach. In some cases, models implementing convolutional layers outperform those built on recurrent layers. Some of the findings show better performances with models trained through the dataset containing the sentiment analysis for the industries. My findings suggest that the models based on the convolutional layers perform effectively when compared to classical portfolio optimization approaches.
+This study starts from the traditional process of estimating a company's valuation multiples and proposes a rigorously quantitative approach to generalize it. The study focuses on publicly traded U.S. companies under SIC code 35 to develop a machine learning model that, based on the financial and operational characteristics of these companies, can predict the most appropriate valuation multiple for a target firm in the same industry. By testing three different algorithms (Random Forest, Gradient Boosting, and Support Vector Machine) with three different test set sizes, the study presents a model that can describe the variability in the sample data with an R-squared of 0.314. Furthermore, the study demonstrates that the models including business descriptions encoded into vectors via BERT (Bidirectional Encoder Representations from Transformers) outperform the models employing the traditional SIC code classification method in a statistically significant manner.
 
 ## Thesis
 
-[PDF Available](https://github.com/mariodematteis/DRL-PortfolioOptimization/blob/6405cceb0a3430fdf5ea0c471e1b7764541a23eb/Paper.pdf)
+[PDF Available]()
 
 ## Development
 
@@ -18,5 +18,5 @@ I develop a portfolio optimization model that periodically adjusts the weights o
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 
-This __repository__ hosts the code related to my __Bachelor Thesis__, which aims at offers new approaches to __*portfolio optimization*__.<br>
-This __project__ explores the intersection of __*Deep Learning*__ and __*Reinforcement Learning*__ __techniques__ to elaborate a novel way of optimizing portfolios.<br>
+This __repository__ hosts the code related to my __Bachelor Thesis__, which aims at offers new approaches to __*multiples computation for firm valuation purposes*__.<br>
+This __project__ explores the intersection of __*Machine Learning*__ and __*Corporate Finance*__ __techniques__ to elaborate a novel way of assessing the relative value of enterprises.<br>
