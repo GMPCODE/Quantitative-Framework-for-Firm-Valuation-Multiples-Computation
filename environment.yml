@@ -1,7 +1,7 @@
-name: quantitative framework for valuation multiples computation
+name: quant_framework_for_valuation
 channels:
-  - default
   - conda-forge
+  - default
 dependencies:
   - python>=3.11,<3.12
   - ipython
